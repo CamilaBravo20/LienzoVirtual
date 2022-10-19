@@ -1,0 +1,12 @@
+Para poder ejecutar el codigo de del lienzo se deben instalar las siguientes librerias: 
+
+cv2
+numpy  
+np
+
+
+Se debe hacer clic derecho en el archivo Lienzo Virtual 
+Se va a edit with IDLE y se abre. 
+
+cuando se abre la ventana se debe ir a Run, hacer clic en rum module y se ejecuta la aplicación 
+
